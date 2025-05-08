@@ -31,3 +31,7 @@ Customizable Fields:
 Ability for users to create custom fields if they want to track something specific (e.g., "Sunlight Hours," "Soil pH").
 Data Export:
 Export catalog and logs to a PDF or CSV for offline recordkeeping.
+
+
+
+Plan is to use swift 
